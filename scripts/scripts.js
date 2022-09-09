@@ -11,6 +11,7 @@ export function explorationActivity(actor) {
       "Defend": "@Compendium[pf2e.actionspf2e.cYtYKa1gDEl7y2N0]{Defend}",
       "Detect Magic": "@Compendium[pf2e.actionspf2e.Yb0C1uLzeHrVLl7a]{Detect Magic}",
       "Follow the Expert": "@Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Follow the Expert}",
+      "Follow the Expert": "@Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Follow the Expert}",
       "Hustle": "@Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle}",
       "Investigate": "@Compendium[pf2e.actionspf2e.EwgTZBWsc8qKaViP]{Investigate}",
       "Repeat a Spell": "@Compendium[pf2e.actionspf2e.OQaFzDtVEOMWizJJ]{Repeat a Spell}",
